@@ -1,0 +1,41 @@
+src/app
+├── app.component.html
+├── app.component.spec.ts
+├── app.component.ts
+├── app.module.ts
+├── app.routing.ts
+├── bo
+│   ├── admin.component.html
+│   ├── admin.component.scss
+│   ├── admin.component.spec.ts
+│   ├── admin.component.ts
+│   ├── admin.module.ts
+│   ├── dashboard
+│   │   ├── dashboard-routing.module.ts
+│   │   ├── dashboard.component.html
+│   │   ├── dashboard.component.ts
+│   │   └── dashboard.module.ts
+│   ├── medias
+│   │   ├── medias-routing.module.ts
+│   │   ├── medias.component.html
+│   │   ├── medias.component.scss
+│   │   ├── medias.component.spec.ts
+│   │   ├── medias.component.ts
+│   │   └── medias.module.ts
+│   ├── posts
+│   │   ├── posts-routing.modules.ts
+│   │   ├── posts.component.html
+│   │   ├── posts.component.scss
+│   │   ├── posts.component.spec.ts
+│   │   ├── posts.component.ts
+│   │   └── posts.module.ts
+│   └── shared
+│       ├── aside.directive.ts
+│       ├── breadcrumb.component.ts
+│       ├── nav-dropdown.directive.ts
+│       └── sidebar.directive.ts
+└── layouts
+    ├── full-layout.component.html
+    └── full-layout.component.ts
+
+6 directories, 32 files
